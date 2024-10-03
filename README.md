@@ -1,6 +1,7 @@
 # Smokez10info
 Collection von allen öffentlichen Infos wie regeln etc für den streamer und discord https://discord.gg/QRUcZhXBUR
 
+## Regeln
 :flag_ch: Discord und Twitch Reglä
 - Nur Dütsch oder schwizer dütsch
 - Fründlich si
@@ -23,3 +24,10 @@ Collection von allen öffentlichen Infos wie regeln etc für den streamer und di
 
 Hiwiss/Hinweise:
 https://discord.com/channels/1153374158630174780/1153374159733276738/1291313928554680341
+
+## Über
+:flag_ch: Dä Server isch für dä Streamer SmokeZ10 <@833093344342573106> 
+
+Links:
+- Twitch: https://www.twitch.tv/smokez_10
+- Discord: https://discord.gg/QRUcZhXBUR

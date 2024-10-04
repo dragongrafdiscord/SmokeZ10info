@@ -2,7 +2,7 @@
 Collection von allen öffentlichen Infos wie regeln etc für den streamer und discord https://discord.gg/QRUcZhXBUR
 
 ## Regeln
-:flag_ch: Discord und Twitch Reglä
+:flag_ch: Discord und Twitch Reglä :flag_ch:
 - Nur Dütsch oder schwizer dütsch
 - Fründlich si
 - Respect vor enander
@@ -14,7 +14,7 @@ Collection von allen öffentlichen Infos wie regeln etc für den streamer und di
 
 *mir nemet eus das recht t regle jederziits ändere wie es nötig isch damit niemert öbis abused*
 
-:flag_de: Discord und Twitch Regeln
+:flag_de: Discord und Twitch Regeln :flag_de:
 - Nur Deutsch oder Schweizer Deutsch
 - Seit Freundlich zu einander
 - Respektiert einander
@@ -39,8 +39,6 @@ https://discord.com/channels/1153374158630174780/1153374159733276738/12913139285
 - Administrator ist Dragon
 - Moderator in Discord und Twitch ist Shooaa
 
-
-
 Links:
 - Twitch: https://www.twitch.tv/smokez_10
 - Discord: https://discord.gg/QRUcZhXBUR
@@ -48,3 +46,9 @@ Links:
 
 ### Über Dragon
 - 22 Jahre, Schwizer Gamer und Amateur Video editor
+
+
+### Verifizierig
+:flag_ch: Klick uf :white_check_mark: wenn du dä Regle https://discord.com/channels/1153374158630174780/1154396646977831034 zuestimsch und zuegriff uf dä rest vom server wilsch ha. :flag_ch:
+
+:flag_de: Klicke auf :white_check_mark: wenn du die Regeln https://discord.com/channels/1153374158630174780/1154396646977831034 akzeptierst und zugriff auf dem rest des Servers haben willst. :flag_de:

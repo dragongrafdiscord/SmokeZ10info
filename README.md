@@ -12,6 +12,8 @@ Collection von allen öffentlichen Infos wie regeln etc für den streamer und di
 - Kei Diskriminierig
 - Dönt kei Itendität stelle oder poste (doxe)
 
+*mir nemet eus das recht t regle jederziits ändere wie es nötig isch damit niemert öbis abused*
+
 :flag_de: Discord und Twitch Regeln
 - Nur Deutsch oder Schweizer Deutsch
 - Seit Freundlich zu einander
@@ -21,6 +23,8 @@ Collection von allen öffentlichen Infos wie regeln etc für den streamer und di
 - Lasst Leute ausreden
 - Keine Diskriminierung
 - Keine Identitäten stehlen oder senden (doxing)
+
+*wir nehmen uns das recht die Regeln jederzeit zu öndern wenn es nötig ist*
 
 Hiwiss/Hinweise:
 https://discord.com/channels/1153374158630174780/1153374159733276738/1291313928554680341

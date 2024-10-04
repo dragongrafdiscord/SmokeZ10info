@@ -30,12 +30,11 @@ Hiwiss/Hinweise:
 https://discord.com/channels/1153374158630174780/1153374159733276738/1291313928554680341
 
 ## Über den Server
-- :flag_ch: Dä Server isch für dä Streamer SmokeZ10 <@833093344342573106> 
-- (Chasch mir gern schribe wasi da ine schribe söti) 
+- :flag_ch: Dä Server isch für dä Streamer Smokez_10 <@833093344342573106> 
 - Administrator isch dä Dragon <@315112274140332032>
 - Moderator uf Discord und Twitch isch dä Shooaa
 
-- :flag_de: Der Server gehört SmokeZ10
+- :flag_de: Der Server gehört Smokez_10
 - Administrator ist Dragon
 - Moderator in Discord und Twitch ist Shooaa
 
@@ -43,6 +42,11 @@ Links:
 - Twitch: https://www.twitch.tv/smokez_10
 - Discord: https://discord.gg/QRUcZhXBUR
 
+
+### Mental Health
+:flag_ch: Mental Health isch sehr wichtig und dä Smokez will sich sehr ufs helfe konzentriere 
+Wenn du uf T Mental Health channels zuegriff ha wilsch gern mit :white_check_mark: reagiere
+:flag_de:
 
 ### Über Dragon
 - 22 Jahre, Schwizer Gamer und Amateur Video editor
